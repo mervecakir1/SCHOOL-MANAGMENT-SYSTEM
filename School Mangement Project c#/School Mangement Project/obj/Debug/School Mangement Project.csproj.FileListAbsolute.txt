@@ -1,0 +1,67 @@
+C:\Users\abadr\Desktop\School Mangement Project\School Mangement Project\bin\Debug\School Mangement Project.exe.config
+C:\Users\abadr\Desktop\School Mangement Project\School Mangement Project\bin\Debug\School Mangement Project.exe
+C:\Users\abadr\Desktop\School Mangement Project\School Mangement Project\bin\Debug\School Mangement Project.pdb
+C:\Users\abadr\Desktop\School Mangement Project\School Mangement Project\obj\Debug\School Mangement Project.csprojAssemblyReference.cache
+C:\Users\abadr\Desktop\School Mangement Project\School Mangement Project\obj\Debug\School_Mangement_Project.login.resources
+C:\Users\abadr\Desktop\School Mangement Project\School Mangement Project\obj\Debug\School_Mangement_Project.main.resources
+C:\Users\abadr\Desktop\School Mangement Project\School Mangement Project\obj\Debug\School_Mangement_Project.Properties.Resources.resources
+C:\Users\abadr\Desktop\School Mangement Project\School Mangement Project\obj\Debug\School Mangement Project.csproj.GenerateResource.cache
+C:\Users\abadr\Desktop\School Mangement Project\School Mangement Project\obj\Debug\School Mangement Project.csproj.CoreCompileInputs.cache
+C:\Users\abadr\Desktop\School Mangement Project\School Mangement Project\obj\Debug\School Mangement Project.exe
+C:\Users\abadr\Desktop\School Mangement Project\School Mangement Project\obj\Debug\School Mangement Project.pdb
+C:\Users\abadr\Desktop\School Mangement Project\School Mangement Project\obj\Debug\School_Mangement_Project.mainmenu.resources
+C:\Users\abadr\Desktop\School Mangement Project\School Mangement Project\obj\Debug\School_Mangement_Project.student.resources
+C:\Users\abadr\Desktop\School Mangement Project\School Mangement Project\obj\Debug\School_Mangement_Project.teacher.resources
+C:\Users\abadr\Desktop\School Mangement Project\School Mangement Project\obj\Debug\School_Mangement_Project.event.resources
+C:\Users\abadr\Desktop\IT3\School Mangement Project\School Mangement Project\bin\Debug\School Mangement Project.exe.config
+C:\Users\abadr\Desktop\IT3\School Mangement Project\School Mangement Project\bin\Debug\School Mangement Project.exe
+C:\Users\abadr\Desktop\IT3\School Mangement Project\School Mangement Project\bin\Debug\School Mangement Project.pdb
+C:\Users\abadr\Desktop\IT3\School Mangement Project\School Mangement Project\obj\Debug\School Mangement Project.csprojAssemblyReference.cache
+C:\Users\abadr\Desktop\IT3\School Mangement Project\School Mangement Project\obj\Debug\School_Mangement_Project.Dashboard.resources
+C:\Users\abadr\Desktop\IT3\School Mangement Project\School Mangement Project\obj\Debug\School_Mangement_Project.event.resources
+C:\Users\abadr\Desktop\IT3\School Mangement Project\School Mangement Project\obj\Debug\School_Mangement_Project.login.resources
+C:\Users\abadr\Desktop\IT3\School Mangement Project\School Mangement Project\obj\Debug\School_Mangement_Project.main.resources
+C:\Users\abadr\Desktop\IT3\School Mangement Project\School Mangement Project\obj\Debug\School_Mangement_Project.mainmenu.resources
+C:\Users\abadr\Desktop\IT3\School Mangement Project\School Mangement Project\obj\Debug\School_Mangement_Project.Properties.Resources.resources
+C:\Users\abadr\Desktop\IT3\School Mangement Project\School Mangement Project\obj\Debug\School_Mangement_Project.students.resources
+C:\Users\abadr\Desktop\IT3\School Mangement Project\School Mangement Project\obj\Debug\School_Mangement_Project.teacher.resources
+C:\Users\abadr\Desktop\IT3\School Mangement Project\School Mangement Project\obj\Debug\School Mangement Project.csproj.GenerateResource.cache
+C:\Users\abadr\Desktop\IT3\School Mangement Project\School Mangement Project\obj\Debug\School Mangement Project.csproj.CoreCompileInputs.cache
+C:\Users\abadr\Desktop\IT3\School Mangement Project\School Mangement Project\obj\Debug\School Mangement Project.exe
+C:\Users\abadr\Desktop\IT3\School Mangement Project\School Mangement Project\obj\Debug\School Mangement Project.pdb
+D:\IT3\School Mangement Project\School Mangement Project\bin\Debug\School Mangement Project.exe.config
+D:\IT3\School Mangement Project\School Mangement Project\bin\Debug\School Mangement Project.exe
+D:\IT3\School Mangement Project\School Mangement Project\bin\Debug\School Mangement Project.pdb
+D:\IT3\School Mangement Project\School Mangement Project\obj\Debug\School Mangement Project.csprojAssemblyReference.cache
+D:\IT3\School Mangement Project\School Mangement Project\obj\Debug\School_Mangement_Project.Dashboard.resources
+D:\IT3\School Mangement Project\School Mangement Project\obj\Debug\School_Mangement_Project.event.resources
+D:\IT3\School Mangement Project\School Mangement Project\obj\Debug\School_Mangement_Project.login.resources
+D:\IT3\School Mangement Project\School Mangement Project\obj\Debug\School_Mangement_Project.main.resources
+D:\IT3\School Mangement Project\School Mangement Project\obj\Debug\School_Mangement_Project.mainmenu.resources
+D:\IT3\School Mangement Project\School Mangement Project\obj\Debug\School_Mangement_Project.Properties.Resources.resources
+D:\IT3\School Mangement Project\School Mangement Project\obj\Debug\School_Mangement_Project.students.resources
+D:\IT3\School Mangement Project\School Mangement Project\obj\Debug\School_Mangement_Project.teacher.resources
+D:\IT3\School Mangement Project\School Mangement Project\obj\Debug\School Mangement Project.csproj.GenerateResource.cache
+D:\IT3\School Mangement Project\School Mangement Project\obj\Debug\School Mangement Project.csproj.CoreCompileInputs.cache
+D:\IT3\School Mangement Project\School Mangement Project\obj\Debug\School Mangement Project.exe
+D:\IT3\School Mangement Project\School Mangement Project\obj\Debug\School Mangement Project.pdb
+E:\مجلد جديد\School Mangement Project\School Mangement Project\bin\Debug\School Mangement Project.exe.config
+E:\مجلد جديد\School Mangement Project\School Mangement Project\bin\Debug\School Mangement Project.exe
+E:\مجلد جديد\School Mangement Project\School Mangement Project\bin\Debug\School Mangement Project.pdb
+E:\مجلد جديد\School Mangement Project\School Mangement Project\obj\Debug\School Mangement Project.csprojAssemblyReference.cache
+E:\مجلد جديد\School Mangement Project\School Mangement Project\obj\Debug\School_Mangement_Project.Dashboard.resources
+E:\مجلد جديد\School Mangement Project\School Mangement Project\obj\Debug\School_Mangement_Project.event.resources
+E:\مجلد جديد\School Mangement Project\School Mangement Project\obj\Debug\School_Mangement_Project.login.resources
+E:\مجلد جديد\School Mangement Project\School Mangement Project\obj\Debug\School_Mangement_Project.main.resources
+E:\مجلد جديد\School Mangement Project\School Mangement Project\obj\Debug\School_Mangement_Project.mainmenu.resources
+E:\مجلد جديد\School Mangement Project\School Mangement Project\obj\Debug\School_Mangement_Project.Properties.Resources.resources
+E:\مجلد جديد\School Mangement Project\School Mangement Project\obj\Debug\School_Mangement_Project.students.resources
+E:\مجلد جديد\School Mangement Project\School Mangement Project\obj\Debug\School_Mangement_Project.teacher.resources
+E:\مجلد جديد\School Mangement Project\School Mangement Project\obj\Debug\School Mangement Project.csproj.GenerateResource.cache
+E:\مجلد جديد\School Mangement Project\School Mangement Project\obj\Debug\School Mangement Project.csproj.CoreCompileInputs.cache
+E:\مجلد جديد\School Mangement Project\School Mangement Project\obj\Debug\School Mangement Project.exe
+E:\مجلد جديد\School Mangement Project\School Mangement Project\obj\Debug\School Mangement Project.pdb
+D:\IT3\School Mangement Project\School Mangement Project\bin\Debug\Guna.UI2.dll
+D:\IT3\School Mangement Project\School Mangement Project\obj\Debug\School Mangement Project.csproj.CopyComplete
+D:\IT3\School Mangement Project\School Mangement Project\obj\Debug\School_Mangement_Project.fee.resources
+D:\IT3\School Mangement Project\School Mangement Project\obj\Debug\School_Mangement_Project.attendance.resources

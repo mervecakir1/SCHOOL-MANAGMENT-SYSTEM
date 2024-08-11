@@ -1,0 +1,34 @@
+School management system 
+
+ School management system developed using C#.NET.  A software system that helps manage various aspects of a school's operations, such as student registration, class scheduling, attendance tracking, grade reports, and other administrative tasks. 
+
+ 1- The programming language used:
+    The language used to develop this system is C#.NET
+
+ 2- System contents:
+ The system contains
+ - Flexible and easy interfaces, which are as follows
+ main
+ main menu 
+ Students 
+ Teachers 
+ Fees
+ Attendance 
+ Event
+ Login
+ Dashboard 
+ -The local Microsoftsql server database contains 5 tables 
+ StudentTB
+ TeacherTB
+ AttendanceTB
+ FeeTB
+ EventTB
+
+ 3-Libraries:
+ We used the Guna library to create custom and attractive user interfaces 
+
+ 4-The main functions of the system:
+    - Student information management: registration, academic records, attendance and absence
+    - Staff management: recruitment
+    - Financial management: tuition fees, billing and payments
+    - Managing school activities and events

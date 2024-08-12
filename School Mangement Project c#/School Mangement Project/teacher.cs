@@ -18,8 +18,7 @@ namespace School_Mangement_Project
             InitializeComponent();
             DisplayTeachers();
         }
-        SqlConnection Con = new SqlConnection(@"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Users\abadr\Documents\ITschool.mdf;Integrated Security=True;Connect Timeout=30");   //يتم اضافة الاتصال الخاص بقاعدة البيانات
-        private void DisplayTeachers()
+        SqlConnection Con = new SqlConnection(@"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Users\abadr\Documents\ITschool.mdf;Integrated Security=True;Connect Timeout=30");   //The connection to the database is added
         {
             Con.Open();
             string Query = "select * from teacherTB";

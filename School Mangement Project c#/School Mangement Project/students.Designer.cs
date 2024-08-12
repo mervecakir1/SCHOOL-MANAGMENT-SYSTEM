@@ -129,9 +129,9 @@
             this.SClass.Font = new System.Drawing.Font("Microsoft Tai Le", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.SClass.FormattingEnabled = true;
             this.SClass.Items.AddRange(new object[] {
-            "أول ثانوي",
-            "ثاني ثانوي",
-            "ثالث ثانوي"});
+            "FIRST GRADE",
+            "SECOND GRADE",
+            "THIRD GRADE"});
             this.SClass.Location = new System.Drawing.Point(618, 114);
             this.SClass.Name = "SClass";
             this.SClass.Size = new System.Drawing.Size(149, 39);
@@ -143,8 +143,8 @@
             this.SGender.Font = new System.Drawing.Font("Microsoft Tai Le", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.SGender.FormattingEnabled = true;
             this.SGender.Items.AddRange(new object[] {
-            "ذكر",
-            "انثى"});
+            "MALE",
+            "FAMLAE"});
             this.SGender.Location = new System.Drawing.Point(259, 115);
             this.SGender.Name = "SGender";
             this.SGender.Size = new System.Drawing.Size(162, 39);
@@ -278,12 +278,12 @@
             this.SAddress.Font = new System.Drawing.Font("Microsoft Tai Le", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.SAddress.FormattingEnabled = true;
             this.SAddress.Items.AddRange(new object[] {
-            "صنعاء",
-            "عمران",
-            "تعز",
-            "عدن",
-            "أب",
-            "ذمار"});
+            "ISTANBUL",
+            "ANKARA",
+            "IZMIR",
+            "BURSA",
+            "SINOP",
+            "ANTALYA"});
             this.SAddress.Location = new System.Drawing.Point(999, 115);
             this.SAddress.Name = "SAddress";
             this.SAddress.Size = new System.Drawing.Size(149, 39);

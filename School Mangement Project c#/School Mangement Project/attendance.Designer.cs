@@ -143,9 +143,9 @@
             this.AStatus.Font = new System.Drawing.Font("Microsoft Tai Le", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.AStatus.FormattingEnabled = true;
             this.AStatus.Items.AddRange(new object[] {
-            "حاضر",
-            "غائب",
-            "مستأذن"});
+            "ATTENDED",
+            "ABSENT",
+            "EXCUSED"});
             this.AStatus.Location = new System.Drawing.Point(850, 122);
             this.AStatus.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.AStatus.Name = "AStatus";

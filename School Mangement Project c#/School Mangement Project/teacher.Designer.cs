@@ -128,14 +128,14 @@
             this.TSub.Font = new System.Drawing.Font("Microsoft Tai Le", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.TSub.FormattingEnabled = true;
             this.TSub.Items.AddRange(new object[] {
-            "قران",
-            "أسلامية",
-            "لغة عربية",
-            "رياضيات",
-            "أحياء",
+            "PHYSICS",
+            "CHEMSTRY",
+            "TURKISH LANGAUGE",
+            "CALCULUS",
+            "BIOLOGY",
             "English",
-            "فيزياء",
-            "كيمياء"});
+            "LINEAR ALGEBRA",
+            "ART"});
             this.TSub.Location = new System.Drawing.Point(879, 94);
             this.TSub.Name = "TSub";
             this.TSub.Size = new System.Drawing.Size(201, 39);
@@ -146,8 +146,8 @@
             this.TGender.Font = new System.Drawing.Font("Microsoft Tai Le", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.TGender.FormattingEnabled = true;
             this.TGender.Items.AddRange(new object[] {
-            "ذكر",
-            "انثى"});
+            "MALE",
+            "FAMALE"});
             this.TGender.Location = new System.Drawing.Point(435, 94);
             this.TGender.Name = "TGender";
             this.TGender.Size = new System.Drawing.Size(162, 39);
@@ -279,12 +279,12 @@
             this.TAddress.Font = new System.Drawing.Font("Microsoft Tai Le", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.TAddress.FormattingEnabled = true;
             this.TAddress.Items.AddRange(new object[] {
-            "صنعاء",
-            "عمران",
-            "تعز",
-            "عدن",
-            "أب",
-            "ذمار"});
+            "ISTANBUL",
+            "ANKARA",
+            "IZMIR",
+            "BURSA",
+            "SINOP",
+            "ANTALYA"});
             this.TAddress.Location = new System.Drawing.Point(640, 95);
             this.TAddress.Name = "TAddress";
             this.TAddress.Size = new System.Drawing.Size(162, 39);
